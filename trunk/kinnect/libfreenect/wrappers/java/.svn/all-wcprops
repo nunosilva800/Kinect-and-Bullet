@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/pom.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/README
+END

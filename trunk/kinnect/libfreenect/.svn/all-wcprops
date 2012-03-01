@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect
+END
+CONTRIB
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/CONTRIB
+END
+mkcontrib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/mkcontrib.sh
+END
+APACHE20
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/APACHE20
+END
+GPL2
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/GPL2
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/HACKING
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/.gitignore
+END
+README.asciidoc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/README.asciidoc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/CMakeLists.txt
+END

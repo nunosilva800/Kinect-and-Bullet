@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect
+END
+as3kinectSocket.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/as3kinectSocket.as
+END
+as3kinect.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/as3kinect.as
+END
+as3kinectMotor.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/as3kinectMotor.as
+END
+as3kinectUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/as3kinectUtils.as
+END
+as3kinectWrapper.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/as3kinectWrapper.as
+END
+as3kinectDepth.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/as3kinectDepth.as
+END
+as3kinectVideo.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/as3kinectVideo.as
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/README.TXT
+END
+stdbool.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/stdbool.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/unistd.h
+END

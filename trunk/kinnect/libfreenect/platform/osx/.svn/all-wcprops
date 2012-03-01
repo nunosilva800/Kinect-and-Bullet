@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/osx
+END
+libusb-osx-kinect.diff
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/osx/libusb-osx-kinect.diff
+END

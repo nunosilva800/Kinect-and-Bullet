@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/inf/xbox%20nui%20camera/ia64
+END
+libusb0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/inf/xbox%20nui%20camera/ia64/libusb0.dll
+END
+libusb0.sys
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/inf/xbox%20nui%20camera/ia64/libusb0.sys
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/lib/freenect
+END
+device.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/lib/freenect/device.rb
+END
+context.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/lib/freenect/context.rb
+END
+sync.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/lib/freenect/sync.rb
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/AssemblyInfo.cs
+END
+DepthCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/DepthCamera.cs
+END
+Kinect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/Kinect.cs
+END
+VideoCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/VideoCamera.cs
+END
+ImageMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/ImageMap.cs
+END
+LogEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/LogEventArgs.cs
+END
+Motor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/Motor.cs
+END
+SwapBufferCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/SwapBufferCollection.cs
+END
+DepthMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/DepthMap.cs
+END
+KinectNative.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/KinectNative.cs
+END
+LED.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/LED.cs
+END
+Accelerometer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/lib/Accelerometer.cs
+END

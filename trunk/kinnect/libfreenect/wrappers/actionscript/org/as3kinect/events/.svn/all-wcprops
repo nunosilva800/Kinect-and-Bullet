@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/events
+END
+as3kinectSocketEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/events/as3kinectSocketEvent.as
+END
+as3kinectWrapperEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/actionscript/org/as3kinect/events/as3kinectWrapperEvent.as
+END

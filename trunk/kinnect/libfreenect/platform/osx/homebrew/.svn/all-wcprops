@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/osx/homebrew
+END
+libfreenect.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/osx/homebrew/libfreenect.rb
+END
+libusb-freenect.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/osx/homebrew/libusb-freenect.rb
+END

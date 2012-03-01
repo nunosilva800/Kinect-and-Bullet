@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/libusb10emu/libusb-1.0
+END
+failguard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/libusb10emu/libusb-1.0/failguard.cpp
+END
+failguard.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/libusb10emu/libusb-1.0/failguard.h
+END
+libusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/libusb10emu/libusb-1.0/libusb.h
+END
+libusbemu_threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/libusb10emu/libusb-1.0/libusbemu_threads.h
+END
+libusbemu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/libusb10emu/libusb-1.0/libusbemu.cpp
+END
+libusbemu_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/libusb10emu/libusb-1.0/libusbemu_internal.h
+END
+libusbemu_threads_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/libusb10emu/libusb-1.0/libusbemu_threads_win32.h
+END

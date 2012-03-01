@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/fakenect
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/fakenect/record.c
+END
+fakenect.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/fakenect/fakenect.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/fakenect/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/fakenect/README
+END

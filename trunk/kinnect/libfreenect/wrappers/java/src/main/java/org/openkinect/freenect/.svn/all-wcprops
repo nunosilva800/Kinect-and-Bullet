@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/Device.java
+END
+LogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/LogHandler.java
+END
+VideoFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/VideoFormat.java
+END
+TiltStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/TiltStatus.java
+END
+DepthHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/DepthHandler.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/Context.java
+END
+VideoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/VideoHandler.java
+END
+LedStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/LedStatus.java
+END
+LogLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/LogLevel.java
+END
+Freenect.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/Freenect.java
+END
+DepthFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect/DepthFormat.java
+END

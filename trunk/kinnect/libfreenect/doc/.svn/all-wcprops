@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/doc
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/doc/Doxyfile
+END
+DoxygenMainpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/doc/DoxygenMainpage.h
+END
+astyle.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/doc/astyle.conf
+END

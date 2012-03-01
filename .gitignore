@@ -1,0 +1,7 @@
+.bundle
+*~
+*.old
+.DS_Store
+*.log
+*.pid
+.svn

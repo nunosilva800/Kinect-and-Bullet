@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/inf/xbox%20nui%20audio/x86
+END
+libusb0_x86.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/inf/xbox%20nui%20audio/x86/libusb0_x86.dll
+END
+libusb0.sys
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/platform/windows/inf/xbox%20nui%20audio/x86/libusb0.sys
+END

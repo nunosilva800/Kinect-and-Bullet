@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/examples
+END
+tiltdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/examples/tiltdemo.c
+END
+hiview.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/examples/hiview.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/examples/CMakeLists.txt
+END
+glpclview.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/examples/glpclview.c
+END
+glview.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/examples/glview.c
+END

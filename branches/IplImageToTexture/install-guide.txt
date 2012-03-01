@@ -1,0 +1,25 @@
+
+0)
+sudo apt-get install build-essential
+
+1) get eclipse
+http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/helios/SR2/eclipse-cpp-helios-SR2-linux-gtk.tar.gz
+
+2) install kinect support
+http://openkinect.org/wiki/Getting_Started#Ubuntu_Manual_Install
+ir ao CMakeList.txt e por a opção OpenCV 'ON'
+seguir o resto das instruções
+
+3) build and install openCV
+http://opencv.willowgarage.com/wiki/InstallGuide_Linux
+http://opencv.willowgarage.com/wiki/InstallGuide%20%3A%20Debian
+
+3) build and install bullet
+http://bulletphysics.org/mediawiki-1.5.8/index.php/Installation#Building
+
+4) build and install SDL
+http://www.libsdl.org/download-1.2.php
+
+5) run eclipse, right-click the project and clean it before running
+good luck
+

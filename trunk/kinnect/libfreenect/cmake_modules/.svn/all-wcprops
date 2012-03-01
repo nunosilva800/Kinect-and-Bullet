@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/cmake_modules
+END
+FindOS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/cmake_modules/FindOS.cmake
+END
+UninstallTarget.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/cmake_modules/UninstallTarget.cmake.in
+END
+FindThreads.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/cmake_modules/FindThreads.cmake
+END
+Findlibusb-1.0.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/cmake_modules/Findlibusb-1.0.cmake
+END
+SetupDirectories.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/cmake_modules/SetupDirectories.cmake
+END

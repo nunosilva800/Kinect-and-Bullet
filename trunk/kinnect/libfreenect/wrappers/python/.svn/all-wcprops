@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python
+END
+demo_cv_sync.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/demo_cv_sync.py
+END
+demo_cv_threshold.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/demo_cv_threshold.py
+END
+demo_cv_async.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/demo_cv_async.py
+END
+frame_convert.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/frame_convert.py
+END
+demo_cv_thresh_sweep.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/demo_cv_thresh_sweep.py
+END
+demo_mp_sync.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/demo_mp_sync.py
+END
+demo_mp_async.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/demo_mp_async.py
+END
+demo_tilt.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/demo_tilt.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/setup.py
+END
+demo_cv_sync_multi.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/demo_cv_sync_multi.py
+END
+freenect.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/freenect.pyx
+END
+freenect.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/freenect.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/python/README
+END

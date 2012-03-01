@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/examples
+END
+record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/examples/record.rb
+END
+tilt_led.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/examples/tilt_led.rb
+END
+video_snapshot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/examples/video_snapshot.rb
+END
+tilt_nod.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/ruby/ffi-libfreenect/examples/tilt_nod.rb
+END

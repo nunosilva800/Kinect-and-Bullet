@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/test/ConsoleTest/VS2010
+END
+ConsoleTest.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/test/ConsoleTest/VS2010/ConsoleTest.csproj
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/test/ConsoleTest/VS2010/app.config
+END
+ConsoleTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/wrappers/csharp/src/test/ConsoleTest/VS2010/ConsoleTest.sln
+END

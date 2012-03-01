@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src
+END
+usb_libusb10.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src/usb_libusb10.h
+END
+libfreenect.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src/libfreenect.pc.in
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src/core.c
+END
+usb_libusb10.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src/usb_libusb10.c
+END
+cameras.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src/cameras.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src/CMakeLists.txt
+END
+freenect_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src/freenect_internal.h
+END
+tilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pi_lps_cg/!svn/ver/31/trunk/kinnect/libfreenect/src/tilt.c
+END
